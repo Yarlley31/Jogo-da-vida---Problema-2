@@ -8,6 +8,7 @@ apostilas, e páginas ou documentos eletrônicos da Internet. Qualquer trecho de
 de outra autoria que não a minha está destacado com uma citação para o autor e a fonte
 do código, e estou ciente que estes trechos não serão considerados para fins de avaliação.
 """
+# SO: Windows 11 Versão 24H2
 
 # importa o módulo criar_matriz
 from criar_matriz import criar_matriz_10x10
