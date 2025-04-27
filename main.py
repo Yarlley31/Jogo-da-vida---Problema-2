@@ -1,7 +1,7 @@
 """
 Autor: Yarlley Fernandes dos Santos
 Componente Curricular: EXA855 - MI Algoritmos
-Concluido em:  17/04/2025
+Concluido em:  23/04/2025
 Declaro que este código foi elaborado por mim de forma individual e não contém nenhum
 trecho de código de outro colega ou de outro autor, tais como provindos de livros e
 apostilas, e páginas ou documentos eletrônicos da Internet. Qualquer trecho de código
