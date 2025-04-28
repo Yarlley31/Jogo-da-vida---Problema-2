@@ -30,8 +30,16 @@ indeces_selecionados = []
 
 
 # Loop para preencher a matriz com 'V' onde o usuário escolher
-qnt_cel_viva = int(input("Digite quantas células vivas quer no tabuleiro inicial: "))
-
+while True:
+    try:
+        qnt_cel_viva = int(input("Digite quantas células vivas quer no tabuleiro inicial: "))
+        if 1 <= qnt_cel_viva <=100 or float:
+            break
+        else:
+            print("Número inválido. Tente novamente")
+    except:
+        print("Entrada inválida. Digite um número inteiro entre 0 e 100.")
+            
 for i in range(qnt_cel_viva):
     
     # Solicita ao usuário para escolher uma linha e uma coluna
