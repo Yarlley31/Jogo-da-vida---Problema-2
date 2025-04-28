@@ -16,7 +16,6 @@ from exibir_matriz import mostra_matriz_atualizada, mostra_matriz_inicial
 
 import os
 from time import sleep
-from random import randint
 
 # Cria a matriz 10x10 preenchida com ' '
 matriz10x10 = criar_matriz_10x10()
